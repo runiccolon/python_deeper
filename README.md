@@ -8,4 +8,6 @@ dict_and_set: 字典和集合
 
 text_and_bytearray: 文本和字节数组
 
+unit_test: 单元测试
 
+singleton: 单例模式
